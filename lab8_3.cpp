@@ -34,4 +34,5 @@ int main(){
             cout << "Your character = Brook";
         }
     }
+    return 0;
 }
